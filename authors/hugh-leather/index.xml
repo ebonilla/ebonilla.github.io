@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugh Leather on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/authors/hugh-leather/</link>
+    <description>Recent content in Hugh Leather on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/authors/hugh-leather/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic feature generation for machine learning--based optimising compilation</title>
+      <link>https://ebonilla.github.io/publication/leather-2014-automatic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/leather-2014-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic feature generation for machine learning based optimizing compilation</title>
+      <link>https://ebonilla.github.io/publication/leather-2009-automatic/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/leather-2009-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MILEPOST GCC: machine learning based research compiler</title>
+      <link>https://ebonilla.github.io/publication/fursin-2008-milepost/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/fursin-2008-milepost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

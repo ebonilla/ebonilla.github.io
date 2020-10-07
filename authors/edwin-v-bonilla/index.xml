@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edwin V Bonilla on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/authors/edwin-v-bonilla/</link>
+    <description>Recent content in Edwin V Bonilla on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/authors/edwin-v-bonilla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings</title>
+      <link>https://ebonilla.github.io/publication/elinas-2020-variational/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/elinas-2020-variational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution Regression for Continuous-Time Processes via the Expected Signature</title>
+      <link>https://ebonilla.github.io/publication/lemercier-2020-distribution/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/lemercier-2020-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile Propagation for Wasserstein-Approximate Gaussian Processes</title>
+      <link>https://ebonilla.github.io/publication/zhang-2020-quantile/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/zhang-2020-quantile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibrating Deep Convolutional Gaussian Processes</title>
+      <link>https://ebonilla.github.io/publication/tran-2019-calibrating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/tran-2019-calibrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic Inference in Latent Gaussian Process Models.</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2019-generic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2019-generic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouped Gaussian processes for solar power prediction</title>
+      <link>https://ebonilla.github.io/publication/dahl-2019-grouped/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dahl-2019-grouped/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Grouped Gaussian Processes via Direct Cholesky Functional Representations</title>
+      <link>https://ebonilla.github.io/publication/dahl-2019-scalable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dahl-2019-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Grouped Gaussian Processes for Solar Power Forecasting.</title>
+      <link>https://ebonilla.github.io/publication/dahl-2019-sparse/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dahl-2019-sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Variational Inference in Continuous Cox Process Models</title>
+      <link>https://ebonilla.github.io/publication/aglietti-2019-structured/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/aglietti-2019-structured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Graph Convolutional Networks</title>
+      <link>https://ebonilla.github.io/publication/tiao-2019-variational/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/tiao-2019-variational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycle-consistent adversarial learning as approximate bayesian inference</title>
+      <link>https://ebonilla.github.io/publication/tiao-2018-cycle/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/tiao-2018-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoGP: Exploring the capabilities and limitations of Gaussian process models</title>
+      <link>https://ebonilla.github.io/publication/krauth-2017-autogp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/krauth-2017-autogp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gray-box inference for structured Gaussian process models</title>
+      <link>https://ebonilla.github.io/publication/galliani-2017-gray/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/galliani-2017-gray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random feature expansions for deep Gaussian processes</title>
+      <link>https://ebonilla.github.io/publication/cutajar-2017-random/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/cutajar-2017-random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Deep Gaussian Processes Inference with Arc-Cosine Kernels</title>
+      <link>https://ebonilla.github.io/publication/cutajar-2016-accelerating/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/cutajar-2016-accelerating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable inference for Gaussian process models with black-box likelihoods</title>
+      <link>https://ebonilla.github.io/publication/dezfouli-2015-scalable/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dezfouli-2015-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated variational inference for Gaussian process models</title>
+      <link>https://ebonilla.github.io/publication/nguyen-2014-automated/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/nguyen-2014-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Multi-output Gaussian Processes.</title>
+      <link>https://ebonilla.github.io/publication/nguyen-2014-collaborative/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/nguyen-2014-collaborative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Bayesian geophysical inversions</title>
+      <link>https://ebonilla.github.io/publication/mccalman-2014-distributed/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/mccalman-2014-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended and unscented Gaussian processes</title>
+      <link>https://ebonilla.github.io/publication/steinberg-2014-extended/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/steinberg-2014-extended/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-theoretic sparsification for Gaussian process preference learning</title>
+      <link>https://ebonilla.github.io/publication/abbasnejad-2013-decision/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/abbasnejad-2013-decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic microarchitectural adaptation using machine learning</title>
+      <link>https://ebonilla.github.io/publication/dubach-2013-dynamic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dubach-2013-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning community-based preferences via dirichlet process mixtures of gaussian processes</title>
+      <link>https://ebonilla.github.io/publication/abbasnejad-2013-learning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/abbasnejad-2013-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New objective functions for social collaborative filtering</title>
+      <link>https://ebonilla.github.io/publication/noel-2012-new/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/noel-2012-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Topic Coherence with Regularized Topic Models</title>
+      <link>https://ebonilla.github.io/publication/newman-2011-improving/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/newman-2011-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse gaussian processes for learning preferences</title>
+      <link>https://ebonilla.github.io/publication/abbasnejad-2011-sparse/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/abbasnejad-2011-sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A predictive model for dynamic microarchitectural adaptivity control</title>
+      <link>https://ebonilla.github.io/publication/dubach-2010-predictive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dubach-2010-predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian process preference elicitation</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2010-gaussian/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2010-gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable compiler optimisation across embedded programs and microarchitectures using machine learning</title>
+      <link>https://ebonilla.github.io/publication/dubach-2009-portable/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dubach-2009-portable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task Gaussian process prediction</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2008-multi/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2008-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A note on noise-free Gaussian process prediction with separable covariance functions and grid designs</title>
+      <link>https://ebonilla.github.io/publication/williams-2007-note/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/williams-2007-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel multi-task learning using task-specific features</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2007-kernel/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2007-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive search distributions</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2006-predictive/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2006-predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Good Compiler Transformations Using Machine Learning</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2004-predicting/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2004-predicting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

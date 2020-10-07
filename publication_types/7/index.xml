@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/publication_types/7/</link>
+    <description>Recent content in 7 on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compilers that learn to optimise: a probabilistic machine learning approach</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2008-compilers/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2008-compilers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Good Compiler Transformations Using Machine Learning</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2004-predicting/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2004-predicting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

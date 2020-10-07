@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheyang Shen on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/authors/zheyang-shen/</link>
+    <description>Recent content in Zheyang Shen on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/authors/zheyang-shen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rethinking Sparse Gaussian Processes: Bayesian Approaches to Inducing-Variable Approximations</title>
+      <link>https://ebonilla.github.io/publication/rossi-2020-rethinking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/rossi-2020-rethinking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

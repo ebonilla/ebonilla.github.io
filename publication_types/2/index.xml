@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribution Regression for Continuous-Time Processes via the Expected Signature</title>
+      <link>https://ebonilla.github.io/publication/lemercier-2020-distribution/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/lemercier-2020-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking Sparse Gaussian Processes: Bayesian Approaches to Inducing-Variable Approximations</title>
+      <link>https://ebonilla.github.io/publication/rossi-2020-rethinking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/rossi-2020-rethinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic Inference in Latent Gaussian Process Models.</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2019-generic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2019-generic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouped Gaussian processes for solar power prediction</title>
+      <link>https://ebonilla.github.io/publication/dahl-2019-grouped/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dahl-2019-grouped/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Grouped Gaussian Processes via Direct Cholesky Functional Representations</title>
+      <link>https://ebonilla.github.io/publication/dahl-2019-scalable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dahl-2019-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Grouped Gaussian Processes for Solar Power Forecasting.</title>
+      <link>https://ebonilla.github.io/publication/dahl-2019-sparse/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dahl-2019-sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycle-consistent adversarial learning as approximate bayesian inference</title>
+      <link>https://ebonilla.github.io/publication/tiao-2018-cycle/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/tiao-2018-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic feature generation for machine learning--based optimising compilation</title>
+      <link>https://ebonilla.github.io/publication/leather-2014-automatic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/leather-2014-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic microarchitectural adaptation using machine learning</title>
+      <link>https://ebonilla.github.io/publication/dubach-2013-dynamic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dubach-2013-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian data fusion for geothermal exploration</title>
+      <link>https://ebonilla.github.io/publication/ramos-2012-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/ramos-2012-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative probabilistic prototype learning</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2012-discriminative/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2012-discriminative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milepost gcc: Machine learning enabled self-tuning compiler</title>
+      <link>https://ebonilla.github.io/publication/fursin-2011-milepost/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/fursin-2011-milepost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

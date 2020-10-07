@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Sanner on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/authors/scott-sanner/</link>
+    <description>Recent content in Scott Sanner on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/authors/scott-sanner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Decision-theoretic sparsification for Gaussian process preference learning</title>
+      <link>https://ebonilla.github.io/publication/abbasnejad-2013-decision/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/abbasnejad-2013-decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning community-based preferences via dirichlet process mixtures of gaussian processes</title>
+      <link>https://ebonilla.github.io/publication/abbasnejad-2013-learning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/abbasnejad-2013-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New objective functions for social collaborative filtering</title>
+      <link>https://ebonilla.github.io/publication/noel-2012-new/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/noel-2012-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse gaussian processes for learning preferences</title>
+      <link>https://ebonilla.github.io/publication/abbasnejad-2011-sparse/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/abbasnejad-2011-sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian process preference elicitation</title>
+      <link>https://ebonilla.github.io/publication/bonilla-2010-gaussian/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/bonilla-2010-gaussian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

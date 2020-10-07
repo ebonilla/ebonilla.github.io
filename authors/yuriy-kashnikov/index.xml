@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuriy Kashnikov on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/authors/yuriy-kashnikov/</link>
+    <description>Recent content in Yuriy Kashnikov on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/authors/yuriy-kashnikov/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Milepost gcc: Machine learning enabled self-tuning compiler</title>
+      <link>https://ebonilla.github.io/publication/fursin-2011-milepost/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/fursin-2011-milepost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

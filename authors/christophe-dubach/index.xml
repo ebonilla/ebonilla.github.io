@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christophe Dubach on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/authors/christophe-dubach/</link>
+    <description>Recent content in Christophe Dubach on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/authors/christophe-dubach/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic microarchitectural adaptation using machine learning</title>
+      <link>https://ebonilla.github.io/publication/dubach-2013-dynamic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dubach-2013-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A predictive model for dynamic microarchitectural adaptivity control</title>
+      <link>https://ebonilla.github.io/publication/dubach-2010-predictive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dubach-2010-predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable compiler optimisation across embedded programs and microarchitectures using machine learning</title>
+      <link>https://ebonilla.github.io/publication/dubach-2009-portable/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/dubach-2009-portable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic performance model construction for the fast software exploration of new hardware designs</title>
+      <link>https://ebonilla.github.io/publication/cavazos-2006-automatic/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/cavazos-2006-automatic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
