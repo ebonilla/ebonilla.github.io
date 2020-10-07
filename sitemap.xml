@@ -15,6 +15,12 @@
   </url>
   
   <url>
+    <loc>https://ebonilla.github.io/authors/christian-j-walder/</loc>
+    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ebonilla.github.io/authors/edwin-v-bonilla/</loc>
     <lastmod>2020-10-06T23:18:34+11:00</lastmod>
     <priority>0</priority>
@@ -27,7 +33,19 @@
   </url>
   
   <url>
+    <loc>https://ebonilla.github.io/authors/lexing-xie/</loc>
+    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ebonilla.github.io/authors/louis-tiao/</loc>
+    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/marian-andrei-rizoiu/</loc>
     <lastmod>2020-10-06T23:18:33+11:00</lastmod>
     <priority>0</priority>
   </url>
@@ -50,6 +68,17 @@
   </url>
   
   <url>
+    <loc>https://ebonilla.github.io/publication/zhang-2020-quantile/</loc>
+    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/rui-zhang/</loc>
+    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ebonilla.github.io/publication/elinas-2020-variational/</loc>
     <lastmod>2020-10-06T23:18:33+11:00</lastmod>
   </url>
@@ -57,12 +86,6 @@
   <url>
     <loc>https://ebonilla.github.io/publication_types/2/</loc>
     <lastmod>2020-10-06T23:18:34+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/christian-j-walder/</loc>
-    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,18 +102,6 @@
   
   <url>
     <loc>https://ebonilla.github.io/authors/edwin-bonilla/</loc>
-    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/lexing-xie/</loc>
-    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/marian-andrei-rizoiu/</loc>
     <lastmod>2020-10-06T23:18:33+11:00</lastmod>
     <priority>0</priority>
   </url>
@@ -114,19 +125,8 @@
   </url>
   
   <url>
-    <loc>https://ebonilla.github.io/publication/zhang-2020-quantile/</loc>
-    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ebonilla.github.io/publication/rossi-2020-rethinking/</loc>
     <lastmod>2020-10-06T23:18:33+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/rui-zhang/</loc>
-    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
