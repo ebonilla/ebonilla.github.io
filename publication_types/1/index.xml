@@ -6,10 +6,55 @@
     <description>Recent content in 1 on Edwin V. Bonilla&#39;s Home Page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ebonilla.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Model Selection for Bayesian Autoencoders</title>
+      <link>https://ebonilla.github.io/publication/tran-2021-model/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/tran-2021-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BORE: Bayesian Optimization by Density-Ratio Estimation</title>
+      <link>https://ebonilla.github.io/publication/tiao-2021-bore/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/tiao-2021-bore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution Regression for Sequential Data</title>
+      <link>https://ebonilla.github.io/publication/lemercier-2021-distribution/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/lemercier-2021-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SigGPDE: Scaling Sparse Gaussian Processes on Sequential Data</title>
+      <link>https://ebonilla.github.io/publication/lemercier-2021-siggpde/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/lemercier-2021-siggpde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Gaussian processes revisited: Bayesian approaches to inducing-variable approximations</title>
+      <link>https://ebonilla.github.io/publication/rossi-2021-sparse/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/rossi-2021-sparse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantile Propagation for Wasserstein-Approximate Gaussian Processes</title>

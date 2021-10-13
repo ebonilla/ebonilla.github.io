@@ -6,10 +6,28 @@
     <description>Recent content in Fabio Ramos on Edwin V. Bonilla&#39;s Home Page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ebonilla.github.io/authors/fabio-ramos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BORE: Bayesian Optimization by Density-Ratio Estimation</title>
+      <link>https://ebonilla.github.io/publication/tiao-2021-bore/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/tiao-2021-bore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning ODEs via Diffeomorphisms for Fast and Robust Integration</title>
+      <link>https://ebonilla.github.io/publication/zhi-2021-learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/zhi-2021-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cycle-consistent adversarial learning as approximate bayesian inference</title>

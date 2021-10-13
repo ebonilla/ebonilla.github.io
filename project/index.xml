@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Edwin V. Bonilla&#39;s Home Page</title>
+    <link>https://ebonilla.github.io/project/</link>
+    <description>Recent content in Projects on Edwin V. Bonilla&#39;s Home Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Oct 2021 16:52:47 +1100</lastBuildDate>
+    
+	    <atom:link href="https://ebonilla.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimal Design of Experiments</title>
+      <link>https://ebonilla.github.io/project/optimal-design-of-experiments/</link>
+      <pubDate>Wed, 13 Oct 2021 16:52:47 +1100</pubDate>
+      
+      <guid>https://ebonilla.github.io/project/optimal-design-of-experiments/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The design of experiments (DoE) is a problem that lies at the core of scientific discovery where the goal is to select an experiment (or a sequence of experiments) in order to achieve a specific objective, for example, (i) maximization of the information that the experiments provide about the underlying process; (ii) discrimination between two different models of a physical phenomenon and (iii) maximization of the design output. Application areas are diverse in, for example, psychology, pharmacology, physics and manufacturing. Although recent advances in machine learning have broadened the applicability of DoE methods, practical constraints in the real world have largely been ignored. These constraints include structured designs, where the input design is constrained to a feasible subset of the design space; multiple objectives, where one is concerned with designing experiments in order to address several objectives simultaneously (e.g. maximizing information gain and reaching an optimal outcome); non-stationarity,  where the selection of a specific design may change the distribution of the outcomes; and efficiency and scalability, where the process of computing an optimal design is constrained by computational resources available or practical settings (e.g. online/interactive experiments).&lt;/p&gt;
+
+&lt;p&gt;This project aims at addressing the above problems by drawing from and developing new advances in deep learning, graph representational learning, probabilistic inference, Bayesian optimization and reinforcement learning along with Bayesian optimal design of experiments approaches. The outcomes of the project will have widespread applications in scientific discovery with and outwith CSIRO in areas such as synthetic biology and manufacturing.&lt;/p&gt;
+
+&lt;p&gt;The student is expected to develop the research and methods for the above problems, publish and present the corresponding outcomes at top machine learning venues (such as NeurIPS, ICML, ICLR, AISTATS) and contribute to specific applications involving DoE, e.g., in current projects at CSIRO (involving synthetic biology and/or manufacturing). The student will also be given the opportunity to visit our collaborators at Amazon (Berlin, world leaders in Bayesian optimization) and Max Planck Institute for Biological Cybernetics in Tübingen through internships and/or research visits.&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Computer science, statistics or related quantitative fields&lt;/li&gt;
+&lt;li&gt;Excellent knowledge of machine learning techniques (e.g. popular supervised and unsupervised learning methods and fundamental concepts such as generalization, regularization, overfitting)&lt;/li&gt;
+&lt;li&gt;Expertise in high-level programming languages such as Python&lt;/li&gt;
+&lt;li&gt;Desirable: Knowledge of reinforcement learning, probabilistic inference techniques and deep learning frameworks such as Pytorch and TensorFlow&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Machine Learning</title>
+      <link>https://ebonilla.github.io/project/mechanistic-machine-learning/</link>
+      <pubDate>Wed, 13 Oct 2021 16:47:29 +1100</pubDate>
+      
+      <guid>https://ebonilla.github.io/project/mechanistic-machine-learning/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Machine learning (ML) has revolutionized many aspects of our daily lives with incredible breakthroughs in computer vision, speech analysis and natural language processing. However, modern ML techniques such as deep learning are notorious for being data hungry (requiring large amounts of labelled data to train) and difficult to interpret. In areas involving scientific discovery, such large amounts of data may not be available and, more importantly, the ability to understand and interpret what ML models learn is a must. In this project we will investigate different approaches to combining ML with mechanistic models in order to make ML methods more data efficient and provide a better understanding of the world through their mechanistic counterpart. We will focus on three different approaches involving state-space models, emulator-based approaches and (stochastic) differential equations.  Applications where such approaches are not only beneficial but necessary include ecology, biosecurity, economics and physics but we aim at addressing problems in climate modelling through our collaborations with CSIRO’s Ocean and Atmosphere.&lt;/p&gt;
+
+&lt;p&gt;It is expected that the student, under the guidance of his university and Data61 supervisors, will develop new frameworks for learning and inference in such hybrid models that are scalable and efficient. For this purpose, we will build upon the supervisory team’s strong expertise and track record in probabilistic inference, statistics and machine learning. The outcomes of this project will not only have an impact in machine learning and statistics but also have the potential to revolutionise significant areas of science such as those mentioned above where the combination of physical models with data-driven approaches is key.
+The student is expected to develop the research and methods for the above problems, publish and present the corresponding outcomes at top machine learning venues (such as NeurIPS, ICML, ICLR, AISTATS) and contribute to specific applications involving our collaborations with CSIRO&amp;rsquo;s Oceans and Atmosphere business unit. The student will also be given the opportunity to work alongside our collaborators at The University of Warwick (UK) and EURECOM (France) who have been working on similar problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Computer science, statistics or related quantitative fields&lt;/li&gt;
+&lt;li&gt;Excellent knowledge of machine learning techniques (e.g. popular supervised and unsupervised learning methods and fundamental concepts such as generalization, regularization, overfitting)&lt;/li&gt;
+&lt;li&gt;Expertise in high-level programming languages such as Python&lt;/li&gt;
+&lt;li&gt;Desirable: Knowledge of probabilistic inference techniques and deep learning frameworks such as Pytorch and TensorFlow.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New models for Online Attention Competition</title>
+      <link>https://ebonilla.github.io/project/online-attention-competition/</link>
+      <pubDate>Wed, 13 Oct 2021 16:42:02 +1100</pubDate>
+      
+      <guid>https://ebonilla.github.io/project/online-attention-competition/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Machine learning models of social media popularity abound, but ones that take into account finite attention or competition among similar memes are scarce. Feature-driven approaches try to learn a function that maps content, user, and network features directly to an output variable indicating popularity, such as the volume, popularity rank, or change in popularity. Another class of models explicitly describe each sharing event as they happen over time. The mathematical tools used arise from stochastic point processes, such as self-exciting processes, cox survival processes, or stochastic epidemic models.  The key to our proposed solution lies in incorporating work on choices in economics with models of online attention. We propose three subtasks to analyse and design models for the competition dynamics of memes.
+We will create novel methods to characterize the attention market in social media. This will extend the stochastic process model with a choice model component, provide better market models that take into account item quality and extrinsic environment, and study the gap between individual choice and social choices.
+We will formulate the main model form of the choice process model and explore several estimation algorithms. One contribution will be designing a choice modulator function to be able to take into account network capacity constraints.&lt;/p&gt;
+
+&lt;p&gt;Besides making foundational contributions in machine learning algorithms, the broader implication includes addressing the challenge of manipulatable online attention that threatens our democracy, as well as potential applications in other domains including the evolution of organisms and ecosystems.
+The student is expected to develop the research and methods for the above problems, publish and present the corresponding outcomes at top machine learning venues (such as NeurIPS, ICML, ICLR, AISTATS) and application venues. They will also be given the opportunity to work alongside our collaborators at the University of Warwick (UK).&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Degree in computer science, statistics or related quantitative fields&lt;/li&gt;
+&lt;li&gt;Excellent knowledge of machine learning techniques (e.g. popular supervised and unsupervised learning methods and fundamental concepts such as generalization, regularization, overfitting)&lt;/li&gt;
+&lt;li&gt;Expertise in high-level programming languages such as Python&lt;/li&gt;
+&lt;li&gt;Desirable: Knowledge of probabilistic inference techniques and deep learning frameworks such as Pytorch and TensorFlow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;collaborations&#34;&gt;Collaborations&lt;/h2&gt;
+
+&lt;p&gt;This project will be carried out in collaboration with Prof. Lexing Xie from ANU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inference in Dynamical Systems</title>
+      <link>https://ebonilla.github.io/project/inference-dynamical-systems/</link>
+      <pubDate>Wed, 13 Oct 2021 16:22:18 +1100</pubDate>
+      
+      <guid>https://ebonilla.github.io/project/inference-dynamical-systems/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The project involves developing novel methods for state inference in complex dynamical systems with a later focus on the estimation of joint model and state from observations of the state over time. For example, one may have observations in time from a weather system and be interested in both estimating the relevant climate model describing the system as well as forecasting future states of the system. In very high-dimensional systems (like weather systems), computational complexity versus estimation accuracy and uncertainty quantification become key considerations in algorithm design and analysis. The student will look at novel methods for inference in these settings that consider these factors with an emphasis on rigorous algorithm development and performance characterisations. Expected outcomes will be methods as just detailed with software and published articles to be produced. The student will likely work closely with practitioners in application fields (like climate scientists) as well as with data scientists and mathematical statisticians and machine learners with the aim of producing practical methods that may be tested in real systems.&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic statistics, math, and/or computer science skills with applications in data science, analytics and/or machine learning.&lt;/li&gt;
+&lt;li&gt;Research experience at the level of a dedicated honours-type project is necessary.&lt;/li&gt;
+&lt;li&gt;Experience in programming in Python and MATLAB will be beneficial but more general programming skills are sufficient.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;collaborations&#34;&gt;Collaborations&lt;/h2&gt;
+
+&lt;p&gt;The project will be carried out in collaboration with Dr Adrian Bishop from UTS.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,28 @@
     <description>Recent content in Terry Lyons on Edwin V. Bonilla&#39;s Home Page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ebonilla.github.io/authors/terry-lyons/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distribution Regression for Sequential Data</title>
+      <link>https://ebonilla.github.io/publication/lemercier-2021-distribution/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/lemercier-2021-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SigGPDE: Scaling Sparse Gaussian Processes on Sequential Data</title>
+      <link>https://ebonilla.github.io/publication/lemercier-2021-siggpde/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/lemercier-2021-siggpde/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distribution Regression for Continuous-Time Processes via the Expected Signature</title>
