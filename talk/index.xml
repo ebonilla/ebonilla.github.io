@@ -6,9 +6,37 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Edwin V. Bonilla&#39;s Home Page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 16 Dec 2021 15:30:57 +1100</lastBuildDate>
     
 	    <atom:link href="https://ebonilla.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Approximate Inference</title>
+      <link>https://ebonilla.github.io/talk/isaac-2021-3/</link>
+      <pubDate>Thu, 16 Dec 2021 15:30:57 +1100</pubDate>
+      
+      <guid>https://ebonilla.github.io/talk/isaac-2021-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Processes</title>
+      <link>https://ebonilla.github.io/talk/isaac-2021-2/</link>
+      <pubDate>Wed, 15 Dec 2021 15:30:54 +1100</pubDate>
+      
+      <guid>https://ebonilla.github.io/talk/isaac-2021-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Probabilistic Modelling</title>
+      <link>https://ebonilla.github.io/talk/isaac-2021-1/</link>
+      <pubDate>Tue, 14 Dec 2021 15:30:51 +1100</pubDate>
+      
+      <guid>https://ebonilla.github.io/talk/isaac-2021-1/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
