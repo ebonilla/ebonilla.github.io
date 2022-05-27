@@ -3,14 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ebonilla.github.io/talk/isaac-2021-3/</loc>
-    <lastmod>2021-12-16T15:30:57+11:00</lastmod>
+    <loc>https://ebonilla.github.io/publication_types/1/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/amir-dezfouli/</loc>
+    <lastmod>2022-05-27T17:24:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/edwin-v-bonilla/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ebonilla.github.io/</loc>
-    <lastmod>2021-12-16T15:30:57+11:00</lastmod>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/fabio-ramos/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/iadine-chades/</loc>
+    <lastmod>2022-05-27T17:24:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/publication/zhi-2021-learning/</loc>
+    <lastmod>2021-10-13T21:34:25+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/publication/zhi-2022-learning/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/lionel-ott/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/publication/blau-2022-optimizing/</loc>
+    <lastmod>2022-05-27T17:24:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/publication_types/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/publication/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/tin-lai/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/tom-blau/</loc>
+    <lastmod>2022-05-27T17:24:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/authors/weiming-zhi/</loc>
+    <lastmod>2022-05-27T17:26:11+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ebonilla.github.io/talk/isaac-2021-3/</loc>
+    <lastmod>2021-12-16T15:30:57+11:00</lastmod>
   </url>
   
   <url>
@@ -55,18 +141,6 @@
   </url>
   
   <url>
-    <loc>https://ebonilla.github.io/publication_types/1/</loc>
-    <lastmod>2021-10-13T21:36:49+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/</loc>
-    <lastmod>2021-10-13T21:36:49+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ebonilla.github.io/authors/ba-hien-tran/</loc>
     <lastmod>2021-10-13T21:34:25+11:00</lastmod>
     <priority>0</priority>
@@ -75,12 +149,6 @@
   <url>
     <loc>https://ebonilla.github.io/authors/dimitrios-milios/</loc>
     <lastmod>2021-10-13T21:34:25+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/edwin-v-bonilla/</loc>
-    <lastmod>2021-10-13T21:36:49+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,17 +167,6 @@
     <loc>https://ebonilla.github.io/authors/pietro-michiardi/</loc>
     <lastmod>2021-10-13T21:34:25+11:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/publication_types/</loc>
-    <lastmod>2021-10-13T21:36:49+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/publication/</loc>
-    <lastmod>2021-10-13T21:36:49+11:00</lastmod>
   </url>
   
   <url>
@@ -136,12 +193,6 @@
   </url>
   
   <url>
-    <loc>https://ebonilla.github.io/authors/fabio-ramos/</loc>
-    <lastmod>2021-10-13T21:36:49+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ebonilla.github.io/authors/louis-c-tiao/</loc>
     <lastmod>2021-10-13T21:36:49+11:00</lastmod>
     <priority>0</priority>
@@ -150,12 +201,6 @@
   <url>
     <loc>https://ebonilla.github.io/authors/matthias-seeger/</loc>
     <lastmod>2021-10-13T21:36:49+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/publication_types/2/</loc>
-    <lastmod>2021-10-13T21:34:25+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,17 +218,6 @@
   <url>
     <loc>https://ebonilla.github.io/authors/edwin-bonilla/</loc>
     <lastmod>2021-10-13T21:34:24+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/publication/zhi-2021-learning/</loc>
-    <lastmod>2021-10-13T21:34:25+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/lionel-ott/</loc>
-    <lastmod>2021-10-13T21:34:25+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -224,18 +258,6 @@
   <url>
     <loc>https://ebonilla.github.io/authors/thomas-cass/</loc>
     <lastmod>2021-10-13T21:34:24+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/tin-lai/</loc>
-    <lastmod>2021-10-13T21:34:25+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/weiming-zhi/</loc>
-    <lastmod>2021-10-13T21:34:25+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -292,6 +314,12 @@
   </url>
   
   <url>
+    <loc>https://ebonilla.github.io/publication_types/2/</loc>
+    <lastmod>2020-10-06T23:18:34+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ebonilla.github.io/publication/lemercier-2020-distribution/</loc>
     <lastmod>2020-10-06T23:18:34+11:00</lastmod>
   </url>
@@ -299,12 +327,6 @@
   <url>
     <loc>https://ebonilla.github.io/publication/rossi-2020-rethinking/</loc>
     <lastmod>2020-10-06T23:18:33+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ebonilla.github.io/authors/amir-dezfouli/</loc>
-    <lastmod>2020-10-06T23:18:33+11:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

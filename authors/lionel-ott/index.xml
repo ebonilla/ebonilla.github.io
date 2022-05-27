@@ -6,17 +6,26 @@
     <description>Recent content in Lionel Ott on Edwin V. Bonilla&#39;s Home Page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ebonilla.github.io/authors/lionel-ott/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learning ODEs via Diffeomorphisms for Fast and Robust Integration</title>
+      <title>LLearning Efficient and Robust Ordinary Differential Equations via Invertible Neural Networks</title>
       <link>https://ebonilla.github.io/publication/zhi-2021-learning/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ebonilla.github.io/publication/zhi-2021-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLearning Efficient and Robust Ordinary Differential Equations via Invertible Neural Networks</title>
+      <link>https://ebonilla.github.io/publication/zhi-2022-learning/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/zhi-2022-learning/</guid>
       <description></description>
     </item>
     

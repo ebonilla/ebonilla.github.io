@@ -6,10 +6,37 @@
     <description>Recent content in 1 on Edwin V. Bonilla&#39;s Home Page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ebonilla.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LLearning Efficient and Robust Ordinary Differential Equations via Invertible Neural Networks</title>
+      <link>https://ebonilla.github.io/publication/zhi-2021-learning/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/zhi-2021-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLearning Efficient and Robust Ordinary Differential Equations via Invertible Neural Networks</title>
+      <link>https://ebonilla.github.io/publication/zhi-2022-learning/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/zhi-2022-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Sequential Experimental Design with Deep Reinforcement Learning</title>
+      <link>https://ebonilla.github.io/publication/blau-2022-optimizing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/blau-2022-optimizing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model Selection for Bayesian Autoencoders</title>

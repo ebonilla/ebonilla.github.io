@@ -6,10 +6,19 @@
     <description>Recent content in Amir Dezfouli on Edwin V. Bonilla&#39;s Home Page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ebonilla.github.io/authors/amir-dezfouli/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimizing Sequential Experimental Design with Deep Reinforcement Learning</title>
+      <link>https://ebonilla.github.io/publication/blau-2022-optimizing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/publication/blau-2022-optimizing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generic Inference in Latent Gaussian Process Models.</title>
