@@ -122,5 +122,32 @@ The student is expected to develop the research and methods for the above proble
 </description>
     </item>
     
+    <item>
+      <title>Causality in Dynamical Systems</title>
+      <link>https://ebonilla.github.io/project/causality-dynamical-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebonilla.github.io/project/causality-dynamical-systems/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Climate risks are the impact of manifest changes to the frequency and intensity of extreme events (e.g., heat waves, drought, tropical cyclones, etc.,) on our socio-economic, health and geo-political structures. These extreme events are under the combined influence of the larger scale natural variations in radiative forcing, and the human induced global warming trend. Anthropogenic change acts to increase vulnerability by rapidly modifying environmental factors which multiply the impact of threats from disease and economic shocks.
+This project will tackle the problem of detecting and attributing causal relationships between climate variables and (possibly) exogenous factor such as the occurrence of disease (pandemics), finance &amp;amp; economics, and conflict. The project will focus on predictability and understanding of causal structures and dynamical systems. The fundamental challenges we will address here involve (i) long-standing problems in time series modelling and dynamical systems such as filtering, smoothing and prediction and (ii) discovering causal relationships from data with limited interventions. The main common underpinning methodology is that of uncertainty quantification and propagation based on probability theory and modern machine learning techniques such as variational inference.  Our work will build upon sound mathematical frameworks for modelling dynamics and causal relationships, namely (a) structural causal models (SCMs), (b) neural differential equations and/or &amp;copy; state-space models.&lt;/p&gt;
+
+&lt;p&gt;It is expected that the student, under the guidance of his university and Data61 supervisors, will develop new frameworks for causal inference in dynamical systems. For this purpose, we will build upon the supervisory team’s strong expertise and track record in probabilistic inference, statistics and machine learning. The outcomes of this project will not only have an impact in machine learning and statistics but also have the potential to revolutionise significant areas of science such as those mentioned above.
+The student is expected to develop the research and methods for the above problems, publish and present the corresponding outcomes at top machine learning venues (such as NeurIPS, ICML, ICLR, AISTATS) and contribute to specific applications involving our collaborations with Oceans and Atmosphere. The student will also be given the opportunity to work alongside our collaborators at The University of Warwick (UK) and EURECOM (France) who have been working on similar problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic statistics, math, and/or computer science skills with applications in data science, analytics and/or machine learning.&lt;/li&gt;
+&lt;li&gt;Research experience at the level of a dedicated honours-type project is necessary.&lt;/li&gt;
+&lt;li&gt;Expertise in high-level programming languages such as Python&lt;/li&gt;
+&lt;li&gt;Desirable: Knowledge of probabilistic inference techniques and deep learning frameworks such as Pytorch and TensorFlow&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
