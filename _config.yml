@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Edwin V. Bonilla's Website # the website title (if blank, full name will be used instead)
-first_name: You
+title: Edwin V. Bonilla # the website title (if blank, full name will be used instead)
+first_name: Edwin
 middle_name: V.
 last_name: Bonilla
 email: edwin.bonilla@data61.csiro.au
