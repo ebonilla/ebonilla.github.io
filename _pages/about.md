@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Principal Research Scientist <a href='https://www.csiro.au'>CSIRO</a>.
+subtitle: Senior Principal Research Scientist, <a href='https://www.csiro.au'>CSIRO</a>'s Data61.
 
 profile:
   align: right
