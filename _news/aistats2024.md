@@ -14,5 +14,5 @@ In this paper we estimate directed acyclic graphs (DAGs) from observational data
 
 The paper has a lot of neat mathematical tricks :sparkles: that allowed us to develop a fast and scalable algorithm, given the complexity of having neural networks to map contextual features into a DAG. We also provide a convergence guarantee and some cool experiments, including the analysis of drug consumption. 
 
+---
 
- 
