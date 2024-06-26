@@ -2,7 +2,7 @@
 layout: page
 title: Modelling uncertainty
 description: Uncertainty quantification and propagation. 
-img: assets/img/uncertainty.jpg
+img: assets/img/uncertainty2.jpg
 importance: 3
 category: work
 related_publications: true
