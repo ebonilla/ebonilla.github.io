@@ -15,10 +15,12 @@ The ML community have built incredibly powerful models for prediction. However, 
 
 ## Recent Developments 
 
-### Directed Acyclic Dag Estimation 
+### Directed Acyclic Graph (DAG) Estimation 
 <ul>
     <li>Contextual DAGs {% cite thompson2024contextual %} </li>
-    <li>Bayesian DAG estimation {% cite bonilla2024variational %} </li>
+    <li>Bayesian DAG estimation via permutation-based distributions {% cite bonilla2024variational %} and projection-induced distributions {% cite thompson2024prodag %} </li>
+    <li> Optimal transport approachs  to Parameter DAG estimation  {% cite  vo2024optimal %} and Structure DAG learning {% cite vo2024optimal %} </li>
+    <li> Bayesian Granger Causality {% cite zhao2024bayesian %}</li>
 </ul>
 
 
