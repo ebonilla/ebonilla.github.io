@@ -3,7 +3,7 @@ layout: page
 title: Causal Discovery and Inference
 description: Foundational Machine Learning for Causal Discovery and Inference. 
 img: assets/img/causality.jpg
-importance: 2
+importance: 1
 category: work
 related_publications: true
 ---

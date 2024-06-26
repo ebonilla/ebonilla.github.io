@@ -3,7 +3,7 @@ layout: page
 title: Intelligent Data Collection
 description: Optimal Design of Experiments. 
 img: assets/img/doe.jpg
-importance: 3
+importance: 2
 category: work
 related_publications: true
 ---
