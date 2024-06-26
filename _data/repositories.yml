@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ebonilla
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ebonilla/Sparse-Gaussian-Processes-Revisited
+  - ebonilla/VGCN
+
