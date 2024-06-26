@@ -1,5 +1,5 @@
 github_users:
-  - ebonilla
+  # - ebonilla
 
 github_repos:
   - ebonilla/Sparse-Gaussian-Processes-Revisited
