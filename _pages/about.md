@@ -16,6 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+> _"It's not [only] the consequence that makes a problem important, 
+> it is that you have a reasonable attack."_  
+ Richard Hamming, 1986.
+
+
 I am a senior principal research scientist and _Science Leader for Foundational Machine Learning_ of the Analytics and Decision Sciences Research program at CSIRO’s Data61, Australia. I also holds an Honorary Associate Professor position at the Australian National University (ANU). Before joining CSIRO, I was a Senior Lecturer at the University of New South Wales (UNSW, 2014-2018), a Senior Researcher at National ICT Australia (NICTA, 2010-2014) and a Research Associate at The University of Edinburgh (UK, 2007-2009). 
 
 I obtained a PhD in Informatics at the University of Edinburgh in 2008 and a MSc in Artificial Intelligence with Distinction at the University of Edinburgh (2004). Most of my expertise is in _probabilistic modelling and inference_ algorithms for the analysis of complex data, in areas such as scalable Bayesian inference, Gaussian processes and multi-task learning.  I have worked in applications such as geophysical inversions, spatio-temporal modelling, computer vision and document analysis. My current interests include causal discovery and inference, Gaussian processes, Bayesian optimization, optimal design of experiments, neural differential equations and graph neural networks.
