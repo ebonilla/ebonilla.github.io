@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Edwin V. Bonilla",
-    "label": "Research Scientist",
+    "label": "Machine Learning Research Scientist",
     "image": "",
     "email": "edwin.bonilla@data61.csiro.au",
     "url": "https://ebonilla.github.io",
@@ -63,7 +63,8 @@
       "url": "https://www.eltiempocasaeditorial.com",
       "startDate": "2003-06-01",
       "endDate": "2003-09-30",
-      "summary": "Developed software applications for managing the cash flow of the company"
+      "summary": "Software development and support across all businesses",
+      "highlights": ["Developed software applications for managing the cash flow of the company"]
     },
     {
       "name": "Inpesa Ltd, Ecopetrol ICP",
@@ -71,7 +72,9 @@
       "url": "https://www.ecopetrol.com.co/wps/portal/",
       "startDate": "2001-10-01",
       "endDate": "2003-02-29",
-      "summary": "Machine learning techniques for the characterisation of oil fields"
+      "summary": "Machine learning techniques for the characterisation of oil fields",
+      "highlights": ["Development and integration of the tool Oil Field Intelligence (OFI)"]
+
     }
   ],
   "education": [
@@ -116,13 +119,13 @@
       "summary": "Variational Graph Convolutional Networks"
     },
     {
-      "title": "Test-of-time paper award}",
+      "title": "Test-of-time paper award",
       "date": "2019",
       "awarder": "International Symposium on Code Generation and Optimization (CGO)",
       "summary": "Automatic Feature Generation for Machine Learning Based Optimizing Compilation"
     },
     {
-      "title": "Test-of-time paper award}",
+      "title": "Test-of-time paper award",
       "date": "2017",
       "awarder": "International Symposium on Code Generation and Optimization (CGO)",
       "summary": "Rapidly Selecting Good Compiler Optimizations using Performance Counters"
