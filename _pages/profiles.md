@@ -42,18 +42,18 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Xuesong Wang </p>
-  - align: right
+  - align: left
     content: about_laurence.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Laurence Davies </p>
-  - align: left
+  - align: right
     image: vy.jpg
     content: about_vy.md
     image_circular: false # crops the image to make it circular   
     more_info: >
       <p> Vy Vo </p>
-  - align: right
+  - align: left
     content: about_dario.md
     image_circular: false # crops the image to make it circular    
     more_info: >
