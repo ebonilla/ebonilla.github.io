@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Foundational machine learning at CSIRO's Data61.
+description: Foundational machine learning people working with me at CSIRO's Data61.
 nav: true
 nav_order: 7
 
