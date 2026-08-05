@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Foundational Model for Causal Discovery
-date: 2026-08-05 04:50:00-0400
+date: 2026-08-05 04:00:00+1000
 inline: false
 related_posts: false
 ---
