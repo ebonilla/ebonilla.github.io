@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Principal Research Scientist, <a href='https://www.csiro.au'>CSIRO</a>'s Data61.
+subtitle: Senior Principal Research Scientist, <a href='https://www.csiro.au'>CSIRO</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>edwin.bonilla [at] data61.csiro.au</p>
+    <p>edwin.bonilla [at] csiro.au</p>
  
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
