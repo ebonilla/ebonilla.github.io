@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 x papers at NeurIPS 2025
-date: 2026-08-05 03:00:00+1000
+date: 2026-08-05 02:00:00+1000
 inline: false
 related_posts: false
 ---
