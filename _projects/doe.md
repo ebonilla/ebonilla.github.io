@@ -19,6 +19,10 @@ While these methods have clear implications for manufacturing and synthetic biol
 <ul>
     <li> Bayesian optimization as classification: BORE  {% cite tiao2021bore %} </li>
     <li> Bayesian adaptive calibration and optimal design {% cite oliveira2024bayesian %} </li>
+    <li> Generative Bayesian optimization: generative models as acquisition functions {% cite oliveira2026generative %} </li>
+    <li> Thompson sampling in function spaces via neural operators {% cite oliveira2025thompson %} </li>
+    <li> Variational search distributions {% cite steinberg2025variational %} </li>
+    <li> Amortized active generation of Pareto sets {% cite steinberg2025amortized %} </li>
 </ul>
 
 

@@ -18,9 +18,17 @@ The ML community have built incredibly powerful models for prediction. However, 
 ### Directed Acyclic Graph (DAG) Estimation 
 <ul>
     <li>Contextual DAGs {% cite thompson2024contextual %} </li>
-    <li>Bayesian DAG estimation via permutation-based distributions {% cite bonilla2024variational %} and projection-induced distributions {% cite thompson2024prodag %} </li>
-    <li> Optimal transport approachs  to Parameter DAG estimation  {% cite  vo2024optimal %} and Structure DAG learning {% cite vo2024optimal %} </li>
+    <li>Bayesian DAG estimation via permutation-based distributions {% cite bonilla2026permutation %} and projection-induced distributions {% cite thompson2025prodag %} </li>
+    <li> Optimal transport approachs  to Parameter DAG estimation  {% cite  vo2024learning %} and Structure DAG learning {% cite vo2024optimal %} </li>
     <li> Bayesian Granger Causality {% cite zhao2024bayesian %}</li>
+    <li> Ordering-based causal discovery via generalized score matching {% cite vo2026ordering %} </li>
+    <li> Hierarchical Bayesian nonparametric Granger causal discovery: HiBaNG {% cite zhao2026hibang %} </li>
+</ul>
+
+### Foundation Models for Causal Discovery
+<ul>
+    <li> Arrow: a foundation model for causal discovery {% cite thompson2026arrow %} </li>
+    <li> Causal preference elicitation {% cite bonilla2026causal %} </li>
 </ul>
 
 
