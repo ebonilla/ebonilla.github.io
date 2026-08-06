@@ -59,4 +59,9 @@ profiles:
     image_circular: false # crops the image to make it circular    
     more_info: >
       <p> Dario Draca </p>
+  - align: right
+    content: about_yashvir.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> Yashvir S. Grewal </p>
 ---
