@@ -2,6 +2,8 @@
   # - ebonilla
 
 github_repos:
-  - ebonilla/Sparse-Gaussian-Processes-Revisited
+  - csiro-funml/CaPE
   - ebonilla/VGCN
+  - ebonilla/AutoGP
+  - ebonilla/Sparse-Gaussian-Processes-Revisited
 
