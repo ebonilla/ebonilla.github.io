@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Foundational Model for Causal Discovery
+title: "Arrow: A Foundational Model for Causal Discovery"
 date: 2026-08-05 04:00:00+1000
 inline: false
 related_posts: false
