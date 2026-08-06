@@ -14,6 +14,7 @@ profiles:
     more_info: >
       <p> Edwin V. Bonilla </p>
   - align: left
+    image: he_zhao.jpg
     content: about_he.md
     image_circular: false # crops the image to make it circular
     more_info: >
