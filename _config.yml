@@ -6,7 +6,7 @@ title: Edwin V. Bonilla # the website title (if blank, full name will be used in
 first_name: Edwin
 middle_name: V.
 last_name: Bonilla
-email: edwin.bonilla@data61.csiro.au
+email: edwin.bonilla@csiro.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Edwin V. Bonilla's personal website.
 footer_text: >
