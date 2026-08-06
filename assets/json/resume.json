@@ -151,52 +151,70 @@
   ],
   "awards": [
     {
-      "title": "Best Student Research Paper Award",
-      "date": "2023",
+      "title": "ICML Oral Presentation",
+      "date": "2025-07",
+      "awarder": "International Conference on Machine Learning (ICML)",
+      "summary": "Oral presentation (top ~1% of submissions) for \"Renyi Neural Processes.\" Senior author; presented by postdoctoral researcher Xuesong Wang."
+    },
+    {
+      "title": "Best Research Paper Award (Student)",
+      "date": "2023-08",
       "awarder": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
-      "summary": "Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations"
+      "summary": "Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations. First authored by student Vy Vo."
     },
     {
       "title": "Outstanding Contribution",
-      "date": "2019",
+      "date": "2019-12",
       "awarder": "NeurIPS' Graph Representational Learning Workshop",
       "summary": "Variational Graph Convolutional Networks"
     },
     {
       "title": "Test-of-time paper award",
-      "date": "2019",
+      "date": "2019-02",
       "awarder": "International Symposium on Code Generation and Optimization (CGO)",
       "summary": "Automatic Feature Generation for Machine Learning Based Optimizing Compilation"
     },
     {
       "title": "Test-of-time paper award",
-      "date": "2017",
+      "date": "2017-02",
       "awarder": "International Symposium on Code Generation and Optimization (CGO)",
       "summary": "Rapidly Selecting Good Compiler Optimizations using Performance Counters"
     },
     {
-      "title": "HiPEAC Paper Award",
-      "date": "",
-      "awarder": "HiPEAC",
-      "summary": ""
-    },
-    {
-      "title": "Faculty Research Grant Program Award",
-      "date": "",
-      "awarder": "",
+      "title": "Faculty of Engineering Silverstar Award",
+      "date": "2017-01",
+      "awarder": "The University of New South Wales (UNSW)",
       "summary": ""
     },
     {
       "title": "AWS in Education Research Grant",
-      "date": "",
+      "date": "2015-07",
       "awarder": "Amazon Web Services (AWS)",
       "summary": ""
     },
     {
-      "title": "Faculty of Engineering Silverstar Award",
-      "date": "",
-      "awarder": "",
+      "title": "Faculty Research Grant Program Award",
+      "date": "2014-11",
+      "awarder": "The University of New South Wales (UNSW)",
       "summary": ""
+    },
+    {
+      "title": "HiPEAC Paper Award",
+      "date": "2010-01",
+      "awarder": "HiPEAC (European Network on High Performance and Embedded Architecture and Compilation)",
+      "summary": "European Network of Excellence on High Performance and Embedded Architecture and Compilation award."
+    },
+    {
+      "title": "MSc in AI with Distinction",
+      "date": "2003-10",
+      "awarder": "The University of Edinburgh",
+      "summary": "For outstanding performance on the taught courses and dissertation."
+    },
+    {
+      "title": "Summa Cum Laude",
+      "date": "2001-12",
+      "awarder": "Universidad Industrial de Santander",
+      "summary": "For having obtained a cumulative GPA superior to that of all students in computer science during the previous five years."
     }
 
   ]
