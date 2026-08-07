@@ -15,6 +15,12 @@ The ML community have built incredibly powerful models for prediction. However, 
 
 ## Recent Developments 
 
+### Foundation Models for Causal Discovery & Expert-Knowledge Integration
+<ul>
+    <li> Arrow: a foundation model for causal discovery {% cite thompson2026arrow %} </li>
+    <li> Causal preference elicitation {% cite bonilla2026causal %} </li>
+</ul>
+
 ### Directed Acyclic Graph (DAG) Estimation 
 <ul>
     <li>Contextual DAGs {% cite thompson2024contextual %} </li>
@@ -25,11 +31,6 @@ The ML community have built incredibly powerful models for prediction. However, 
     <li> Hierarchical Bayesian nonparametric Granger causal discovery: HiBaNG {% cite zhao2026hibang %} </li>
 </ul>
 
-### Foundation Models for Causal Discovery
-<ul>
-    <li> Arrow: a foundation model for causal discovery {% cite thompson2026arrow %} </li>
-    <li> Causal preference elicitation {% cite bonilla2026causal %} </li>
-</ul>
 
 
 
