@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
  Richard Hamming, 1986.
 
 
-I have been working on machine learning for 20+ years and currently lead _Foundational Machine Learning_ at CSIRO, where my focus is on making **probabilistic machine learning** a fundamental part of decision-making, under uncertainty, at scale, and grounded in causal understanding.
+I have been working on **machine learning and AI** for 20+ years and currently lead _Foundational Machine Learning_ at CSIRO, where my focus is on making probabilistic machine learning a fundamental part of decision-making, under uncertainty, at scale, and grounded in causal understanding.
  
 That's meant building things, not just publishing about them: I pioneered **multi-task Gaussian process methods** now widely used for transfer learning under uncertainty; co-created Arrow, one of the first foundation models for causal discovery; and built platforms like AutoGP (scalable Gaussian process modelling) and VGCN (graph-structure learning) that turned research into reusable infrastructure. I have developed deep reinforcement learning approaches to train agentic policies for Bayesian sequential experimental design. I also led the ML system behind Milepost GCC, the first machine-learning-driven optimising compiler, still cited today as test-of-time work.
 
