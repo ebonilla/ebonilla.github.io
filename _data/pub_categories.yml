@@ -1,0 +1,20 @@
+# Display labels for publication categories used on the /publications/ page.
+# Keys must match the `category={...}` value used in _bibliography/papers.bib.
+
+"causal-discovery":
+  name: "Causal Discovery & Inference"
+
+"bayesian-optimization":
+  name: "Bayesian Optimization & Experimental Design"
+
+"gaussian-processes":
+  name: "Gaussian Processes & Uncertainty Quantification"
+
+"graph-neural-networks":
+  name: "Graph Neural Networks"
+
+"compiler-optimization":
+  name: "Compiler Optimization"
+
+"other":
+  name: "Other"

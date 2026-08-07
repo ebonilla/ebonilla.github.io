@@ -10,6 +10,132 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+  <div class="pub-search-wrapper mb-4">
+    <input
+      type="text"
+      id="pub-search"
+      class="form-control"
+      placeholder="Search publications by title or author..."
+      aria-label="Search publications"
+    >
+    <div id="pub-search-empty" class="text-muted mt-2" style="display: none;">No publications match your search.</div>
+  </div>
+
+  <div class="pub-category-nav mb-4">
+    {% for category in site.data.pub_categories %}
+      <a href="#{{ category[0] }}" class="btn btn-sm btn-outline-secondary mr-1 mb-1">{{ category[1].name }}</a>
+    {% endfor %}
+  </div>
+
+  <div class="pub-category" data-category="causal-discovery">
+    <a id="causal-discovery" href=".#causal-discovery">
+      <h2 class="category">{{ site.data.pub_categories["causal-discovery"].name }}</h2>
+    </a>
+    {% bibliography --query @*[category=causal-discovery]* %}
+  </div>
+
+  <div class="pub-category" data-category="bayesian-optimization">
+    <a id="bayesian-optimization" href=".#bayesian-optimization">
+      <h2 class="category">{{ site.data.pub_categories["bayesian-optimization"].name }}</h2>
+    </a>
+    {% bibliography --query @*[category=bayesian-optimization]* %}
+  </div>
+
+  <div class="pub-category" data-category="gaussian-processes">
+    <a id="gaussian-processes" href=".#gaussian-processes">
+      <h2 class="category">{{ site.data.pub_categories["gaussian-processes"].name }}</h2>
+    </a>
+    {% bibliography --query @*[category=gaussian-processes]* %}
+  </div>
+
+  <div class="pub-category" data-category="graph-neural-networks">
+    <a id="graph-neural-networks" href=".#graph-neural-networks">
+      <h2 class="category">{{ site.data.pub_categories["graph-neural-networks"].name }}</h2>
+    </a>
+    {% bibliography --query @*[category=graph-neural-networks]* %}
+  </div>
+
+  <div class="pub-category" data-category="compiler-optimization">
+    <a id="compiler-optimization" href=".#compiler-optimization">
+      <h2 class="category">{{ site.data.pub_categories["compiler-optimization"].name }}</h2>
+    </a>
+    {% bibliography --query @*[category=compiler-optimization]* %}
+  </div>
+
+  <div class="pub-category" data-category="other">
+    <a id="other" href=".#other">
+      <h2 class="category">{{ site.data.pub_categories["other"].name }}</h2>
+    </a>
+    {% bibliography --query @*[category=other]* %}
+  </div>
 
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var searchInput = document.getElementById('pub-search');
+    var emptyNotice = document.getElementById('pub-search-empty');
+    if (!searchInput) return;
+
+    function normalize(text) {
+      return (text || '').toLowerCase();
+    }
+
+    function filterPublications() {
+      // jekyll-scholar renders each category's bibliography as a flat sequence of
+      // sibling elements: <h2 class="bibliography">Year</h2> followed by its
+      // <ol class="bibliography">...entries...</ol>, repeated per year. The category
+      // heading itself is a separate <a><h2 class="category">...</h2></a> block.
+      var query = normalize(searchInput.value).trim();
+      var categories = document.querySelectorAll('.pub-category');
+      var anyMatchOnPage = false;
+
+      categories.forEach(function (category) {
+        var nodes = Array.prototype.slice.call(category.children);
+        var categoryHasMatch = false;
+        var currentHeading = null;
+        var headingHasMatch = false;
+
+        nodes.forEach(function (el) {
+          if (el.tagName === 'H2' && el.classList.contains('bibliography')) {
+            if (currentHeading) {
+              currentHeading.style.display = headingHasMatch ? '' : 'none';
+            }
+            currentHeading = el;
+            headingHasMatch = false;
+          } else if (el.tagName === 'OL' || el.tagName === 'UL') {
+            var items = el.querySelectorAll('li');
+            var groupHasMatch = false;
+            items.forEach(function (li) {
+              var text = normalize(li.textContent);
+              var isMatch = query === '' || text.indexOf(query) !== -1;
+              li.style.display = isMatch ? '' : 'none';
+              if (isMatch) {
+                groupHasMatch = true;
+              }
+            });
+            el.style.display = groupHasMatch ? '' : 'none';
+            if (groupHasMatch) {
+              headingHasMatch = true;
+              categoryHasMatch = true;
+            }
+          }
+        });
+        if (currentHeading) {
+          currentHeading.style.display = headingHasMatch ? '' : 'none';
+        }
+
+        category.style.display = categoryHasMatch ? '' : 'none';
+        if (categoryHasMatch) {
+          anyMatchOnPage = true;
+        }
+      });
+
+      if (emptyNotice) {
+        emptyNotice.style.display = (query !== '' && !anyMatchOnPage) ? '' : 'none';
+      }
+    }
+
+    searchInput.addEventListener('input', filterPublications);
+  });
+</script>

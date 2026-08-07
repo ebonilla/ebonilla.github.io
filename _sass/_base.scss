@@ -820,6 +820,40 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
   }
+
+  h2.category {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
+
+  .pub-search-wrapper {
+    .form-control {
+      background-color: var(--global-bg-color);
+      color: var(--global-text-color);
+      border-color: var(--global-divider-color);
+
+      &:focus {
+        border-color: var(--global-theme-color);
+        box-shadow: none;
+      }
+    }
+  }
+
+  .pub-category-nav {
+    .btn {
+      color: var(--global-text-color);
+      border-color: var(--global-divider-color);
+
+      &:hover {
+        color: var(--global-theme-color);
+        border-color: var(--global-theme-color);
+      }
+    }
+  }
 }
 
 // Rouge Color Customization
